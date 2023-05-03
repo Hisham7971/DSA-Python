@@ -23,9 +23,7 @@ n2 = Node(20)
 l.head.next = n2
 n3 = Node(30)
 n2.next = n3
-d = l.display()
-
-print(d)
+print(l.display())
 
 
 
